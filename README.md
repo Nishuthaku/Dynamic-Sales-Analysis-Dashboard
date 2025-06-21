@@ -1,4 +1,8 @@
 # Dynamic Sales Analytics Dashboard
+## 🚀 Try This Project
+
+🔹 **Download Excel file:**  
+👉 [Download Dynamic Sales Analytics Dashboard](https://raw.githubusercontent.com/Nishuthaku/Dynamic-Sales-Analysis-Dashboard/main/Dynamic%20Sales%20Analytics%20Dashboard.xlsm)
 
 An interactive Excel dashboard that analyzes sales performance across regions and executives using:
 - Pivot Tables

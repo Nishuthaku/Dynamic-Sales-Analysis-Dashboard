@@ -14,7 +14,8 @@ An interactive Excel dashboard that analyzes sales performance across regions an
 ✅ Clean dark-themed visuals  
 
 ## 📷 Screenshot  
-![Dashboard](assets/dashboard.png)
+![Dashboard](https://raw.githubusercontent.com/Nishuthaku/Dynamic-Sales-Analysis-Dashboard/main/dashboard.png
+)
 
 ## ⚙️ How to Use  
 1️⃣ Open `Excel-Sales-Dashboard.xlsm`  
